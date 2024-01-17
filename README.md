@@ -25,3 +25,5 @@
 ### Créditos
 
 Esse projeto foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+
+[Link do projeto original](https://github.com/digitalinnovationone/jsgame-detona-ralph)
